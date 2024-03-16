@@ -14,6 +14,7 @@ public static void main(String[] args) {
 	l.add(true);
 	l.add(11.123456);
 	l.add(10);
+	l.add(10);
 	System.out.println(l);
 	//to print the values from list
 	for (Object a : l) {
